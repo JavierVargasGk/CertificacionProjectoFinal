@@ -1,0 +1,8 @@
+/deepeval
+/venv/
+/MLFoundationsVenv/
+/outputs/
+*.pkl
+*.keras
+*.db
+*.png
