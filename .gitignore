@@ -1,5 +1,6 @@
-/deepeval
+/.deepeval/
 /venv/
+/.venv/
 /MLFoundationsVenv/
 /outputs/
 *.pkl
